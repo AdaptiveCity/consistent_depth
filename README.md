@@ -1,4 +1,6 @@
- # [SIGGRAPH 2020] Consistent Video Depth Estimation
+(see Dockerfile / build.sh / run.sh for sample docker container build that works with nvidia-enabled docker)
+ 
+# [SIGGRAPH 2020] Consistent Video Depth Estimation
  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i5_uVHWOJlh2adRFT5BuDhoRftq9Oosx#scrollTo=lNc6HHfHDfnE)
  
